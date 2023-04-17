@@ -12,7 +12,7 @@ Establecer una convención de estilo que siguiendo la línea propuesta por el es
 
 ## Versión
 
-Este documento se encuentra en la versión 0.0.1 y sigue versionado semántico.
+Este documento se encuentra en la versión 0.0.2 y sigue versionado semántico.
 
 
 ## TOC
